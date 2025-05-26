@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 <!-- GitHub Stats with dynamic gradient -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=e45ra&theme=react&background=0D1117&border=67E8F7&dates=67E8F7)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=react&bg_color=0D1117&title_color=67E8F7&text_color=FFFFFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e45ra&layout=compact&theme=react&bg_color=0D1117&title_color=67E8F7&text_color=FFFFFF)
 
 ---
 
