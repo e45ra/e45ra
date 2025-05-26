@@ -94,8 +94,8 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=67E8F7&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=social&color=67E8F7" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=e45ra&color=67E8F7&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/e45ra?label=Follow&style=social&color=67E8F7" alt="GitHub Followers" />
 </p>
 
 ⭐️ From [e45ra](https://github.com/e45ra)
