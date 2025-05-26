@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 ### 📊 **Coding Stats Dashboard**
 
 <!-- GitHub Stats with dynamic gradient -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=react&background=0D1117&border=67E8F7&dates=67E8F7)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=e45ra&theme=react&background=0D1117&border=67E8F7&dates=67E8F7)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=react&bg_color=0D1117&title_color=67E8F7&text_color=FFFFFF)
 
@@ -77,14 +77,17 @@ Here are some ideas to get you started:
 ### 🚨 **Let's Connect!**
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/e45ra">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:rfana062@gmail.com">
     <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+   <a href="https://t.me/e45ra">
+    <img src="https://img.shields.io/badge/-telegram-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -95,4 +98,4 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=social&color=67E8F7" alt="GitHub Followers" />
 </p>
 
-⭐️ From [YOUR_NAME](https://github.com/YOUR_USERNAME)
+⭐️ From [YOUR_NAME](https://github.com/e45ra)
