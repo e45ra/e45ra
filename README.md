@@ -1,8 +1,8 @@
 # 👋 Hey, I’m Erfan  
 
 ### ⚡ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Nuxt.js, Tailwind, React Native, React Native 
-- **Backend:** Node.js, Express, GraphQL , Rust
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Nuxt.js, Tailwind, React Native, React Native expo
+- **Backend:** Node.js, Express, GraphQL , Rust nestjs , golang django, python
 - **Tools:** Git, VS Code, Webpack and more...
 
 ---
