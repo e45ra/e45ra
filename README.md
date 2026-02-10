@@ -1,10 +1,11 @@
 # 👋 Hey, I’m Erfan  
 
 ### ⚡ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Nuxt.js, Tailwind, React Native, React Native expo
-- **Backend:** Node.js, Express, GraphQL , Rust nestjs , golang django, python
-- **Tools:** Git, VS Code, Webpack and more...
-
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Nuxt.js, Tailwind, React Native, React Native Expo
+- **Backend:** Node.js, Express, GraphQL, NestJS, Rust, Go, Django, Python
+- **AI / LLM:** Machine Learning, Deep Learning, Generative AI, Prompt Engineering, LLMs, Model Fine-Tuning, RAG (Retrieval-Augmented Generation), AI Agents, Computer Vision, NLP, MLOps (basics)
+- **AI / VIBE:** End-to-end AI systems — learning models, building pipelines, integrating LLMs, and shipping AI-powered products
+- **Tools:** Git, GitHub, figma, VS Code, Webpack, Vite, Docker, Kubernetes (basics), CI/CD (GitHub Actions), Postman, Swagger, Linux, Bash, Jupyter Notebook, NumPy, Pandas, PyTorch, TensorFlow, Hugging Face, LangChain, Vector Databases (FAISS, Pinecone), MLflow
 ---
 
 ### 📊 GitHub Stats
